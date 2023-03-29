@@ -1,0 +1,20 @@
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\bin\Debug\Pract19 ptpm.exe.config
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\bin\Debug\Pract19 ptpm.exe
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\bin\Debug\Pract19 ptpm.pdb
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19 ptpm.csproj.AssemblyReference.cache
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19 ptpm.csproj.SuggestedBindingRedirects.cache
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19_ptpm.Form1.resources
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19_ptpm.Properties.Resources.resources
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19 ptpm.csproj.GenerateResource.cache
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19 ptpm.csproj.CoreCompileInputs.cache
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19 ptpm.exe
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19 ptpm.pdb
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\bin\Debug\Pract19 ptpm.exe.manifest
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\bin\Debug\Pract19 ptpm.application
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19 ptpm.exe.manifest
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19 ptpm.application
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19_ptpm.Registration.resources
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19_ptpm.AddQuestions.resources
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19_ptpm.Login.resources
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19_ptpm.TeacherAccount.resources
+C:\Users\chiki\source\repos\Pract19 ptpm\Pract19 ptpm\obj\Debug\Pract19_ptpm.ChangeQuestions.resources
